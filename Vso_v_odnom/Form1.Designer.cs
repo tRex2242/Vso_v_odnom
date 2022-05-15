@@ -34,72 +34,72 @@ namespace Vso_v_odnom
             this.SavePicture = new System.Windows.Forms.Button();
             this.OpenText = new System.Windows.Forms.Button();
             this.SaveTextAs = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pb = new System.Windows.Forms.PictureBox();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
-            this.pictureBox13 = new System.Windows.Forms.PictureBox();
-            this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.pictureBox19 = new System.Windows.Forms.PictureBox();
-            this.pictureBox20 = new System.Windows.Forms.PictureBox();
-            this.pictureBox21 = new System.Windows.Forms.PictureBox();
-            this.pictureBox22 = new System.Windows.Forms.PictureBox();
-            this.pictureBox23 = new System.Windows.Forms.PictureBox();
-            this.pictureBox24 = new System.Windows.Forms.PictureBox();
+            this.red = new System.Windows.Forms.PictureBox();
+            this.lime = new System.Windows.Forms.PictureBox();
+            this.yellow = new System.Windows.Forms.PictureBox();
+            this.purpur = new System.Windows.Forms.PictureBox();
+            this.blue = new System.Windows.Forms.PictureBox();
+            this.aqua = new System.Windows.Forms.PictureBox();
+            this.orange = new System.Windows.Forms.PictureBox();
+            this.White = new System.Windows.Forms.PictureBox();
+            this.Black = new System.Windows.Forms.PictureBox();
+            this.gray = new System.Windows.Forms.PictureBox();
+            this.fusia = new System.Windows.Forms.PictureBox();
+            this.purple = new System.Windows.Forms.PictureBox();
+            this.green = new System.Windows.Forms.PictureBox();
+            this.salmon = new System.Windows.Forms.PictureBox();
+            this.gold = new System.Windows.Forms.PictureBox();
+            this.grua = new System.Windows.Forms.PictureBox();
+            this.pink = new System.Windows.Forms.PictureBox();
+            this.opet = new System.Windows.Forms.PictureBox();
+            this.MedVoil = new System.Windows.Forms.PictureBox();
+            this.hghtlt = new System.Windows.Forms.PictureBox();
+            this.darkOrchid = new System.Windows.Forms.PictureBox();
+            this.purp_s = new System.Windows.Forms.PictureBox();
+            this.lightyl = new System.Windows.Forms.PictureBox();
             this.SaveText = new System.Windows.Forms.Button();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
-            this.pictureBox26 = new System.Windows.Forms.PictureBox();
-            this.pictureBox27 = new System.Windows.Forms.PictureBox();
-            this.pictureBox28 = new System.Windows.Forms.PictureBox();
-            this.pictureBox29 = new System.Windows.Forms.PictureBox();
-            this.pictureBox30 = new System.Windows.Forms.PictureBox();
-            this.pictureBox31 = new System.Windows.Forms.PictureBox();
-            this.pictureBox32 = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).BeginInit();
+            this.tan = new System.Windows.Forms.PictureBox();
+            this.darkgreen = new System.Windows.Forms.PictureBox();
+            this.marron = new System.Windows.Forms.PictureBox();
+            this.asd = new System.Windows.Forms.PictureBox();
+            this.fiol = new System.Windows.Forms.PictureBox();
+            this.MediumSlateBlue = new System.Windows.Forms.PictureBox();
+            this.dodgerBlue = new System.Windows.Forms.PictureBox();
+            this.plategreen = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pb)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.red)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lime)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.yellow)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purpur)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blue)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aqua)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.orange)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.White)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Black)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gray)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fusia)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purple)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.green)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.salmon)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gold)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grua)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pink)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.opet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MedVoil)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hghtlt)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.darkOrchid)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purp_s)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lightyl)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tan)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.darkgreen)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.marron)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.asd)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fiol)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MediumSlateBlue)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dodgerBlue)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.plategreen)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
@@ -109,6 +109,7 @@ namespace Vso_v_odnom
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 26);
             this.textBox1.TabIndex = 0;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // OpenPicture
             // 
@@ -119,6 +120,7 @@ namespace Vso_v_odnom
             this.OpenPicture.TabIndex = 1;
             this.OpenPicture.Text = "Открыть картинку";
             this.OpenPicture.UseVisualStyleBackColor = true;
+            this.OpenPicture.Click += new System.EventHandler(this.OpenPicture_Click);
             // 
             // SavePicture
             // 
@@ -129,6 +131,7 @@ namespace Vso_v_odnom
             this.SavePicture.TabIndex = 2;
             this.SavePicture.Text = "Сохранить картинку";
             this.SavePicture.UseVisualStyleBackColor = true;
+            this.SavePicture.Click += new System.EventHandler(this.SavePicture_Click);
             // 
             // OpenText
             // 
@@ -152,13 +155,17 @@ namespace Vso_v_odnom
             this.SaveTextAs.UseVisualStyleBackColor = true;
             this.SaveTextAs.Click += new System.EventHandler(this.SaveTextAs_Click);
             // 
-            // pictureBox1
+            // pb
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(128, 21);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(500, 500);
-            this.pictureBox1.TabIndex = 5;
-            this.pictureBox1.TabStop = false;
+            this.pb.Location = new System.Drawing.Point(128, 21);
+            this.pb.Name = "pb";
+            this.pb.Size = new System.Drawing.Size(500, 500);
+            this.pb.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pb.TabIndex = 5;
+            this.pb.TabStop = false;
+            this.pb.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pb_MouseDown);
+            this.pb.MouseMove += new System.Windows.Forms.MouseEventHandler(this.pb_MouseMove);
+            this.pb.MouseUp += new System.Windows.Forms.MouseEventHandler(this.pb_MouseUp);
             // 
             // richTextBox1
             // 
@@ -168,212 +175,236 @@ namespace Vso_v_odnom
             this.richTextBox1.TabIndex = 6;
             this.richTextBox1.Text = "";
             // 
-            // pictureBox2
+            // red
             // 
-            this.pictureBox2.BackColor = System.Drawing.Color.Red;
-            this.pictureBox2.Location = new System.Drawing.Point(10, 63);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox2.TabIndex = 7;
-            this.pictureBox2.TabStop = false;
+            this.red.BackColor = System.Drawing.Color.Red;
+            this.red.Location = new System.Drawing.Point(10, 63);
+            this.red.Name = "red";
+            this.red.Size = new System.Drawing.Size(100, 50);
+            this.red.TabIndex = 7;
+            this.red.TabStop = false;
+            this.red.Click += new System.EventHandler(this.red_Click);
             // 
-            // pictureBox3
+            // lime
             // 
-            this.pictureBox3.BackColor = System.Drawing.Color.Lime;
-            this.pictureBox3.Location = new System.Drawing.Point(10, 231);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox3.TabIndex = 8;
-            this.pictureBox3.TabStop = false;
+            this.lime.BackColor = System.Drawing.Color.Lime;
+            this.lime.Location = new System.Drawing.Point(10, 231);
+            this.lime.Name = "lime";
+            this.lime.Size = new System.Drawing.Size(100, 50);
+            this.lime.TabIndex = 8;
+            this.lime.TabStop = false;
+            this.lime.Click += new System.EventHandler(this.lime_Click);
             // 
-            // pictureBox4
+            // yellow
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.Yellow;
-            this.pictureBox4.Location = new System.Drawing.Point(10, 175);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox4.TabIndex = 9;
-            this.pictureBox4.TabStop = false;
+            this.yellow.BackColor = System.Drawing.Color.Yellow;
+            this.yellow.Location = new System.Drawing.Point(10, 175);
+            this.yellow.Name = "yellow";
+            this.yellow.Size = new System.Drawing.Size(100, 50);
+            this.yellow.TabIndex = 9;
+            this.yellow.TabStop = false;
+            this.yellow.Click += new System.EventHandler(this.yellow_Click);
             // 
-            // pictureBox5
+            // purpur
             // 
-            this.pictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
-            this.pictureBox5.Location = new System.Drawing.Point(10, 399);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox5.TabIndex = 10;
-            this.pictureBox5.TabStop = false;
+            this.purpur.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.purpur.Location = new System.Drawing.Point(10, 399);
+            this.purpur.Name = "purpur";
+            this.purpur.Size = new System.Drawing.Size(100, 50);
+            this.purpur.TabIndex = 10;
+            this.purpur.TabStop = false;
+            this.purpur.Click += new System.EventHandler(this.purpur_Click);
             // 
-            // pictureBox6
+            // blue
             // 
-            this.pictureBox6.BackColor = System.Drawing.Color.Blue;
-            this.pictureBox6.Location = new System.Drawing.Point(10, 343);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox6.TabIndex = 11;
-            this.pictureBox6.TabStop = false;
+            this.blue.BackColor = System.Drawing.Color.Blue;
+            this.blue.Location = new System.Drawing.Point(10, 343);
+            this.blue.Name = "blue";
+            this.blue.Size = new System.Drawing.Size(100, 50);
+            this.blue.TabIndex = 11;
+            this.blue.TabStop = false;
+            this.blue.Click += new System.EventHandler(this.blue_Click);
             // 
-            // pictureBox7
+            // aqua
             // 
-            this.pictureBox7.BackColor = System.Drawing.Color.Aqua;
-            this.pictureBox7.Location = new System.Drawing.Point(10, 287);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox7.TabIndex = 12;
-            this.pictureBox7.TabStop = false;
+            this.aqua.BackColor = System.Drawing.Color.Aqua;
+            this.aqua.Location = new System.Drawing.Point(10, 287);
+            this.aqua.Name = "aqua";
+            this.aqua.Size = new System.Drawing.Size(100, 50);
+            this.aqua.TabIndex = 12;
+            this.aqua.TabStop = false;
+            this.aqua.Click += new System.EventHandler(this.aqua_Click);
             // 
-            // pictureBox8
+            // orange
             // 
-            this.pictureBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.pictureBox8.Location = new System.Drawing.Point(10, 119);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox8.TabIndex = 13;
-            this.pictureBox8.TabStop = false;
+            this.orange.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
+            this.orange.Location = new System.Drawing.Point(10, 119);
+            this.orange.Name = "orange";
+            this.orange.Size = new System.Drawing.Size(100, 50);
+            this.orange.TabIndex = 13;
+            this.orange.TabStop = false;
+            this.orange.Click += new System.EventHandler(this.orange_Click);
             // 
-            // pictureBox9
+            // White
             // 
-            this.pictureBox9.BackColor = System.Drawing.Color.White;
-            this.pictureBox9.Location = new System.Drawing.Point(10, 511);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox9.TabIndex = 14;
-            this.pictureBox9.TabStop = false;
+            this.White.BackColor = System.Drawing.Color.White;
+            this.White.Location = new System.Drawing.Point(10, 511);
+            this.White.Name = "White";
+            this.White.Size = new System.Drawing.Size(100, 50);
+            this.White.TabIndex = 14;
+            this.White.TabStop = false;
+            this.White.Click += new System.EventHandler(this.White_Click);
             // 
-            // pictureBox10
+            // Black
             // 
-            this.pictureBox10.BackColor = System.Drawing.Color.Black;
-            this.pictureBox10.Location = new System.Drawing.Point(10, 455);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox10.TabIndex = 15;
-            this.pictureBox10.TabStop = false;
+            this.Black.BackColor = System.Drawing.Color.Black;
+            this.Black.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.Black.Location = new System.Drawing.Point(10, 455);
+            this.Black.Name = "Black";
+            this.Black.Size = new System.Drawing.Size(100, 50);
+            this.Black.TabIndex = 15;
+            this.Black.TabStop = false;
+            this.Black.Click += new System.EventHandler(this.Black_Click);
             // 
-            // pictureBox11
+            // gray
             // 
-            this.pictureBox11.BackColor = System.Drawing.Color.Gray;
-            this.pictureBox11.Location = new System.Drawing.Point(10, 623);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox11.TabIndex = 16;
-            this.pictureBox11.TabStop = false;
+            this.gray.BackColor = System.Drawing.Color.Gray;
+            this.gray.Location = new System.Drawing.Point(10, 623);
+            this.gray.Name = "gray";
+            this.gray.Size = new System.Drawing.Size(100, 50);
+            this.gray.TabIndex = 16;
+            this.gray.TabStop = false;
+            this.gray.Click += new System.EventHandler(this.gray_Click);
             // 
-            // pictureBox12
+            // fusia
             // 
-            this.pictureBox12.BackColor = System.Drawing.Color.Fuchsia;
-            this.pictureBox12.Location = new System.Drawing.Point(118, 567);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox12.TabIndex = 17;
-            this.pictureBox12.TabStop = false;
+            this.fusia.BackColor = System.Drawing.Color.Fuchsia;
+            this.fusia.Location = new System.Drawing.Point(118, 567);
+            this.fusia.Name = "fusia";
+            this.fusia.Size = new System.Drawing.Size(100, 50);
+            this.fusia.TabIndex = 17;
+            this.fusia.TabStop = false;
+            this.fusia.Click += new System.EventHandler(this.fusia_Click);
             // 
-            // pictureBox13
+            // purple
             // 
-            this.pictureBox13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.pictureBox13.Location = new System.Drawing.Point(224, 567);
-            this.pictureBox13.Name = "pictureBox13";
-            this.pictureBox13.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox13.TabIndex = 18;
-            this.pictureBox13.TabStop = false;
+            this.purple.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.purple.Location = new System.Drawing.Point(224, 567);
+            this.purple.Name = "purple";
+            this.purple.Size = new System.Drawing.Size(100, 50);
+            this.purple.TabIndex = 18;
+            this.purple.TabStop = false;
+            this.purple.Click += new System.EventHandler(this.purple_Click);
             // 
-            // pictureBox14
+            // green
             // 
-            this.pictureBox14.BackColor = System.Drawing.Color.Green;
-            this.pictureBox14.Location = new System.Drawing.Point(330, 567);
-            this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox14.TabIndex = 19;
-            this.pictureBox14.TabStop = false;
+            this.green.BackColor = System.Drawing.Color.Green;
+            this.green.Location = new System.Drawing.Point(330, 567);
+            this.green.Name = "green";
+            this.green.Size = new System.Drawing.Size(100, 50);
+            this.green.TabIndex = 19;
+            this.green.TabStop = false;
+            this.green.Click += new System.EventHandler(this.green_Click);
             // 
-            // pictureBox15
+            // salmon
             // 
-            this.pictureBox15.BackColor = System.Drawing.Color.Salmon;
-            this.pictureBox15.Location = new System.Drawing.Point(224, 623);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox15.TabIndex = 20;
-            this.pictureBox15.TabStop = false;
+            this.salmon.BackColor = System.Drawing.Color.Salmon;
+            this.salmon.Location = new System.Drawing.Point(224, 623);
+            this.salmon.Name = "salmon";
+            this.salmon.Size = new System.Drawing.Size(100, 50);
+            this.salmon.TabIndex = 20;
+            this.salmon.TabStop = false;
+            this.salmon.Click += new System.EventHandler(this.salmon_Click);
             // 
-            // pictureBox16
+            // gold
             // 
-            this.pictureBox16.BackColor = System.Drawing.Color.Gold;
-            this.pictureBox16.Location = new System.Drawing.Point(118, 623);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox16.TabIndex = 21;
-            this.pictureBox16.TabStop = false;
+            this.gold.BackColor = System.Drawing.Color.Gold;
+            this.gold.Location = new System.Drawing.Point(118, 623);
+            this.gold.Name = "gold";
+            this.gold.Size = new System.Drawing.Size(100, 50);
+            this.gold.TabIndex = 21;
+            this.gold.TabStop = false;
+            this.gold.Click += new System.EventHandler(this.gold_Click);
             // 
-            // pictureBox17
+            // grua
             // 
-            this.pictureBox17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.pictureBox17.Location = new System.Drawing.Point(544, 567);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox17.TabIndex = 22;
-            this.pictureBox17.TabStop = false;
+            this.grua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.grua.Location = new System.Drawing.Point(544, 567);
+            this.grua.Name = "grua";
+            this.grua.Size = new System.Drawing.Size(100, 50);
+            this.grua.TabIndex = 22;
+            this.grua.TabStop = false;
+            this.grua.Click += new System.EventHandler(this.grua_Click);
             // 
-            // pictureBox18
+            // pink
             // 
-            this.pictureBox18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.pictureBox18.Location = new System.Drawing.Point(756, 567);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox18.TabIndex = 23;
-            this.pictureBox18.TabStop = false;
+            this.pink.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.pink.Location = new System.Drawing.Point(756, 567);
+            this.pink.Name = "pink";
+            this.pink.Size = new System.Drawing.Size(100, 50);
+            this.pink.TabIndex = 23;
+            this.pink.TabStop = false;
+            this.pink.Click += new System.EventHandler(this.pink_Click);
             // 
-            // pictureBox19
+            // opet
             // 
-            this.pictureBox19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.pictureBox19.Location = new System.Drawing.Point(650, 567);
-            this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox19.TabIndex = 24;
-            this.pictureBox19.TabStop = false;
+            this.opet.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.opet.Location = new System.Drawing.Point(650, 567);
+            this.opet.Name = "opet";
+            this.opet.Size = new System.Drawing.Size(100, 50);
+            this.opet.TabIndex = 24;
+            this.opet.TabStop = false;
+            this.opet.Click += new System.EventHandler(this.opet_Click);
             // 
-            // pictureBox20
+            // MedVoil
             // 
-            this.pictureBox20.BackColor = System.Drawing.Color.MediumVioletRed;
-            this.pictureBox20.Location = new System.Drawing.Point(10, 567);
-            this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox20.TabIndex = 25;
-            this.pictureBox20.TabStop = false;
+            this.MedVoil.BackColor = System.Drawing.Color.MediumVioletRed;
+            this.MedVoil.Location = new System.Drawing.Point(10, 567);
+            this.MedVoil.Name = "MedVoil";
+            this.MedVoil.Size = new System.Drawing.Size(100, 50);
+            this.MedVoil.TabIndex = 25;
+            this.MedVoil.TabStop = false;
+            this.MedVoil.Click += new System.EventHandler(this.MedVoil_Click);
             // 
-            // pictureBox21
+            // hghtlt
             // 
-            this.pictureBox21.BackColor = System.Drawing.SystemColors.Highlight;
-            this.pictureBox21.Location = new System.Drawing.Point(436, 567);
-            this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox21.TabIndex = 26;
-            this.pictureBox21.TabStop = false;
+            this.hghtlt.BackColor = System.Drawing.SystemColors.Highlight;
+            this.hghtlt.Location = new System.Drawing.Point(436, 567);
+            this.hghtlt.Name = "hghtlt";
+            this.hghtlt.Size = new System.Drawing.Size(100, 50);
+            this.hghtlt.TabIndex = 26;
+            this.hghtlt.TabStop = false;
+            this.hghtlt.Click += new System.EventHandler(this.hghtlt_Click);
             // 
-            // pictureBox22
+            // darkOrchid
             // 
-            this.pictureBox22.BackColor = System.Drawing.Color.DarkOrchid;
-            this.pictureBox22.Location = new System.Drawing.Point(1074, 567);
-            this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox22.TabIndex = 27;
-            this.pictureBox22.TabStop = false;
+            this.darkOrchid.BackColor = System.Drawing.Color.DarkOrchid;
+            this.darkOrchid.Location = new System.Drawing.Point(1074, 567);
+            this.darkOrchid.Name = "darkOrchid";
+            this.darkOrchid.Size = new System.Drawing.Size(100, 50);
+            this.darkOrchid.TabIndex = 27;
+            this.darkOrchid.TabStop = false;
+            this.darkOrchid.Click += new System.EventHandler(this.darkOrchid_Click);
             // 
-            // pictureBox23
+            // purp_s
             // 
-            this.pictureBox23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.pictureBox23.Location = new System.Drawing.Point(968, 567);
-            this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox23.TabIndex = 28;
-            this.pictureBox23.TabStop = false;
+            this.purp_s.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.purp_s.Location = new System.Drawing.Point(968, 567);
+            this.purp_s.Name = "purp_s";
+            this.purp_s.Size = new System.Drawing.Size(100, 50);
+            this.purp_s.TabIndex = 28;
+            this.purp_s.TabStop = false;
+            this.purp_s.Click += new System.EventHandler(this.purp_s_Click);
             // 
-            // pictureBox24
+            // lightyl
             // 
-            this.pictureBox24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.pictureBox24.Location = new System.Drawing.Point(862, 567);
-            this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox24.TabIndex = 29;
-            this.pictureBox24.TabStop = false;
+            this.lightyl.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.lightyl.Location = new System.Drawing.Point(862, 567);
+            this.lightyl.Name = "lightyl";
+            this.lightyl.Size = new System.Drawing.Size(100, 50);
+            this.lightyl.TabIndex = 29;
+            this.lightyl.TabStop = false;
+            this.lightyl.Click += new System.EventHandler(this.lightyl_Click);
             // 
             // SaveText
             // 
@@ -386,117 +417,125 @@ namespace Vso_v_odnom
             this.SaveText.UseVisualStyleBackColor = true;
             this.SaveText.Click += new System.EventHandler(this.SaveText_Click);
             // 
-            // pictureBox25
+            // tan
             // 
-            this.pictureBox25.BackColor = System.Drawing.Color.Tan;
-            this.pictureBox25.Location = new System.Drawing.Point(756, 623);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox25.TabIndex = 31;
-            this.pictureBox25.TabStop = false;
+            this.tan.BackColor = System.Drawing.Color.Tan;
+            this.tan.Location = new System.Drawing.Point(756, 623);
+            this.tan.Name = "tan";
+            this.tan.Size = new System.Drawing.Size(100, 50);
+            this.tan.TabIndex = 31;
+            this.tan.TabStop = false;
+            this.tan.Click += new System.EventHandler(this.tan_Click);
             // 
-            // pictureBox26
+            // darkgreen
             // 
-            this.pictureBox26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.pictureBox26.Location = new System.Drawing.Point(651, 623);
-            this.pictureBox26.Name = "pictureBox26";
-            this.pictureBox26.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox26.TabIndex = 32;
-            this.pictureBox26.TabStop = false;
+            this.darkgreen.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.darkgreen.Location = new System.Drawing.Point(651, 623);
+            this.darkgreen.Name = "darkgreen";
+            this.darkgreen.Size = new System.Drawing.Size(100, 50);
+            this.darkgreen.TabIndex = 32;
+            this.darkgreen.TabStop = false;
+            this.darkgreen.Click += new System.EventHandler(this.darkgreen_Click);
             // 
-            // pictureBox27
+            // marron
             // 
-            this.pictureBox27.BackColor = System.Drawing.Color.Maroon;
-            this.pictureBox27.Location = new System.Drawing.Point(542, 623);
-            this.pictureBox27.Name = "pictureBox27";
-            this.pictureBox27.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox27.TabIndex = 33;
-            this.pictureBox27.TabStop = false;
+            this.marron.BackColor = System.Drawing.Color.Maroon;
+            this.marron.Location = new System.Drawing.Point(542, 623);
+            this.marron.Name = "marron";
+            this.marron.Size = new System.Drawing.Size(100, 50);
+            this.marron.TabIndex = 33;
+            this.marron.TabStop = false;
+            this.marron.Click += new System.EventHandler(this.marron_Click);
             // 
-            // pictureBox28
+            // asd
             // 
-            this.pictureBox28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.pictureBox28.Location = new System.Drawing.Point(436, 623);
-            this.pictureBox28.Name = "pictureBox28";
-            this.pictureBox28.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox28.TabIndex = 34;
-            this.pictureBox28.TabStop = false;
+            this.asd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.asd.Location = new System.Drawing.Point(436, 623);
+            this.asd.Name = "asd";
+            this.asd.Size = new System.Drawing.Size(100, 50);
+            this.asd.TabIndex = 34;
+            this.asd.TabStop = false;
+            this.asd.Click += new System.EventHandler(this.asd_Click);
             // 
-            // pictureBox29
+            // fiol
             // 
-            this.pictureBox29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.pictureBox29.Location = new System.Drawing.Point(330, 623);
-            this.pictureBox29.Name = "pictureBox29";
-            this.pictureBox29.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox29.TabIndex = 35;
-            this.pictureBox29.TabStop = false;
+            this.fiol.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.fiol.Location = new System.Drawing.Point(330, 623);
+            this.fiol.Name = "fiol";
+            this.fiol.Size = new System.Drawing.Size(100, 50);
+            this.fiol.TabIndex = 35;
+            this.fiol.TabStop = false;
+            this.fiol.Click += new System.EventHandler(this.fiol_Click);
             // 
-            // pictureBox30
+            // MediumSlateBlue
             // 
-            this.pictureBox30.BackColor = System.Drawing.Color.MediumSlateBlue;
-            this.pictureBox30.Location = new System.Drawing.Point(1074, 623);
-            this.pictureBox30.Name = "pictureBox30";
-            this.pictureBox30.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox30.TabIndex = 36;
-            this.pictureBox30.TabStop = false;
+            this.MediumSlateBlue.BackColor = System.Drawing.Color.MediumSlateBlue;
+            this.MediumSlateBlue.Location = new System.Drawing.Point(1074, 623);
+            this.MediumSlateBlue.Name = "MediumSlateBlue";
+            this.MediumSlateBlue.Size = new System.Drawing.Size(100, 50);
+            this.MediumSlateBlue.TabIndex = 36;
+            this.MediumSlateBlue.TabStop = false;
+            this.MediumSlateBlue.Click += new System.EventHandler(this.MediumSlateBlue_Click);
             // 
-            // pictureBox31
+            // dodgerBlue
             // 
-            this.pictureBox31.BackColor = System.Drawing.Color.DodgerBlue;
-            this.pictureBox31.Location = new System.Drawing.Point(968, 623);
-            this.pictureBox31.Name = "pictureBox31";
-            this.pictureBox31.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox31.TabIndex = 37;
-            this.pictureBox31.TabStop = false;
+            this.dodgerBlue.BackColor = System.Drawing.Color.DodgerBlue;
+            this.dodgerBlue.Location = new System.Drawing.Point(968, 623);
+            this.dodgerBlue.Name = "dodgerBlue";
+            this.dodgerBlue.Size = new System.Drawing.Size(100, 50);
+            this.dodgerBlue.TabIndex = 37;
+            this.dodgerBlue.TabStop = false;
+            this.dodgerBlue.Click += new System.EventHandler(this.dodgerBlue_Click);
             // 
-            // pictureBox32
+            // plategreen
             // 
-            this.pictureBox32.BackColor = System.Drawing.Color.PaleGreen;
-            this.pictureBox32.Location = new System.Drawing.Point(862, 623);
-            this.pictureBox32.Name = "pictureBox32";
-            this.pictureBox32.Size = new System.Drawing.Size(100, 50);
-            this.pictureBox32.TabIndex = 38;
-            this.pictureBox32.TabStop = false;
+            this.plategreen.BackColor = System.Drawing.Color.PaleGreen;
+            this.plategreen.Location = new System.Drawing.Point(862, 623);
+            this.plategreen.Name = "plategreen";
+            this.plategreen.Size = new System.Drawing.Size(100, 50);
+            this.plategreen.TabIndex = 38;
+            this.plategreen.TabStop = false;
+            this.plategreen.Click += new System.EventHandler(this.plategreen_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1186, 685);
-            this.Controls.Add(this.pictureBox32);
-            this.Controls.Add(this.pictureBox31);
-            this.Controls.Add(this.pictureBox30);
-            this.Controls.Add(this.pictureBox29);
-            this.Controls.Add(this.pictureBox28);
-            this.Controls.Add(this.pictureBox27);
-            this.Controls.Add(this.pictureBox26);
-            this.Controls.Add(this.pictureBox25);
+            this.Controls.Add(this.plategreen);
+            this.Controls.Add(this.dodgerBlue);
+            this.Controls.Add(this.MediumSlateBlue);
+            this.Controls.Add(this.fiol);
+            this.Controls.Add(this.asd);
+            this.Controls.Add(this.marron);
+            this.Controls.Add(this.darkgreen);
+            this.Controls.Add(this.tan);
             this.Controls.Add(this.SaveText);
-            this.Controls.Add(this.pictureBox24);
-            this.Controls.Add(this.pictureBox23);
-            this.Controls.Add(this.pictureBox22);
-            this.Controls.Add(this.pictureBox21);
-            this.Controls.Add(this.pictureBox20);
-            this.Controls.Add(this.pictureBox19);
-            this.Controls.Add(this.pictureBox18);
-            this.Controls.Add(this.pictureBox17);
-            this.Controls.Add(this.pictureBox16);
-            this.Controls.Add(this.pictureBox15);
-            this.Controls.Add(this.pictureBox14);
-            this.Controls.Add(this.pictureBox13);
-            this.Controls.Add(this.pictureBox12);
-            this.Controls.Add(this.pictureBox11);
-            this.Controls.Add(this.pictureBox10);
-            this.Controls.Add(this.pictureBox9);
-            this.Controls.Add(this.pictureBox8);
-            this.Controls.Add(this.pictureBox7);
-            this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.pictureBox5);
-            this.Controls.Add(this.pictureBox4);
-            this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.lightyl);
+            this.Controls.Add(this.purp_s);
+            this.Controls.Add(this.darkOrchid);
+            this.Controls.Add(this.hghtlt);
+            this.Controls.Add(this.MedVoil);
+            this.Controls.Add(this.opet);
+            this.Controls.Add(this.pink);
+            this.Controls.Add(this.grua);
+            this.Controls.Add(this.gold);
+            this.Controls.Add(this.salmon);
+            this.Controls.Add(this.green);
+            this.Controls.Add(this.purple);
+            this.Controls.Add(this.fusia);
+            this.Controls.Add(this.gray);
+            this.Controls.Add(this.Black);
+            this.Controls.Add(this.White);
+            this.Controls.Add(this.orange);
+            this.Controls.Add(this.aqua);
+            this.Controls.Add(this.blue);
+            this.Controls.Add(this.purpur);
+            this.Controls.Add(this.yellow);
+            this.Controls.Add(this.lime);
+            this.Controls.Add(this.red);
             this.Controls.Add(this.richTextBox1);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pb);
             this.Controls.Add(this.SaveTextAs);
             this.Controls.Add(this.OpenText);
             this.Controls.Add(this.SavePicture);
@@ -504,38 +543,38 @@ namespace Vso_v_odnom
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pb)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.red)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lime)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.yellow)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purpur)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.blue)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.aqua)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.orange)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.White)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Black)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gray)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fusia)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purple)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.green)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.salmon)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gold)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.grua)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pink)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.opet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MedVoil)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.hghtlt)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.darkOrchid)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.purp_s)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lightyl)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tan)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.darkgreen)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.marron)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.asd)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.fiol)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.MediumSlateBlue)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dodgerBlue)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.plategreen)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -548,40 +587,40 @@ namespace Vso_v_odnom
         private System.Windows.Forms.Button SavePicture;
         private System.Windows.Forms.Button OpenText;
         private System.Windows.Forms.Button SaveTextAs;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pb;
         private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.PictureBox pictureBox5;
-        private System.Windows.Forms.PictureBox pictureBox6;
-        private System.Windows.Forms.PictureBox pictureBox7;
-        private System.Windows.Forms.PictureBox pictureBox8;
-        private System.Windows.Forms.PictureBox pictureBox9;
-        private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.PictureBox pictureBox11;
-        private System.Windows.Forms.PictureBox pictureBox12;
-        private System.Windows.Forms.PictureBox pictureBox13;
-        private System.Windows.Forms.PictureBox pictureBox14;
-        private System.Windows.Forms.PictureBox pictureBox15;
-        private System.Windows.Forms.PictureBox pictureBox16;
-        private System.Windows.Forms.PictureBox pictureBox17;
-        private System.Windows.Forms.PictureBox pictureBox18;
-        private System.Windows.Forms.PictureBox pictureBox19;
-        private System.Windows.Forms.PictureBox pictureBox20;
-        private System.Windows.Forms.PictureBox pictureBox21;
-        private System.Windows.Forms.PictureBox pictureBox22;
-        private System.Windows.Forms.PictureBox pictureBox23;
-        private System.Windows.Forms.PictureBox pictureBox24;
+        private System.Windows.Forms.PictureBox red;
+        private System.Windows.Forms.PictureBox lime;
+        private System.Windows.Forms.PictureBox yellow;
+        private System.Windows.Forms.PictureBox purpur;
+        private System.Windows.Forms.PictureBox blue;
+        private System.Windows.Forms.PictureBox aqua;
+        private System.Windows.Forms.PictureBox orange;
+        private System.Windows.Forms.PictureBox White;
+        private System.Windows.Forms.PictureBox Black;
+        private System.Windows.Forms.PictureBox gray;
+        private System.Windows.Forms.PictureBox fusia;
+        private System.Windows.Forms.PictureBox purple;
+        private System.Windows.Forms.PictureBox green;
+        private System.Windows.Forms.PictureBox salmon;
+        private System.Windows.Forms.PictureBox gold;
+        private System.Windows.Forms.PictureBox grua;
+        private System.Windows.Forms.PictureBox pink;
+        private System.Windows.Forms.PictureBox opet;
+        private System.Windows.Forms.PictureBox MedVoil;
+        private System.Windows.Forms.PictureBox hghtlt;
+        private System.Windows.Forms.PictureBox darkOrchid;
+        private System.Windows.Forms.PictureBox purp_s;
+        private System.Windows.Forms.PictureBox lightyl;
         private System.Windows.Forms.Button SaveText;
-        private System.Windows.Forms.PictureBox pictureBox25;
-        private System.Windows.Forms.PictureBox pictureBox26;
-        private System.Windows.Forms.PictureBox pictureBox27;
-        private System.Windows.Forms.PictureBox pictureBox28;
-        private System.Windows.Forms.PictureBox pictureBox29;
-        private System.Windows.Forms.PictureBox pictureBox30;
-        private System.Windows.Forms.PictureBox pictureBox31;
-        private System.Windows.Forms.PictureBox pictureBox32;
+        private System.Windows.Forms.PictureBox tan;
+        private System.Windows.Forms.PictureBox darkgreen;
+        private System.Windows.Forms.PictureBox marron;
+        private System.Windows.Forms.PictureBox asd;
+        private System.Windows.Forms.PictureBox fiol;
+        private System.Windows.Forms.PictureBox MediumSlateBlue;
+        private System.Windows.Forms.PictureBox dodgerBlue;
+        private System.Windows.Forms.PictureBox plategreen;
     }
 }
 
